@@ -1,17 +1,14 @@
 [project]
 name = "pyclimproj"
 version = "2025.05.30"
-description = "Downloader for hydroclimate NetCDF data"
+description = "A simple climate projection downloader for ORNL Hydro9505 data"
 authors = [
     { name = "Surabhi Upadhyay", email = "surabhiupadhyay7@gmail.com" }
 ]
 license = "MIT"
 readme = "README.md"
 requires-python = ">=3.8"
-
-[project.dependencies]
-requests = "^2.31"
-beautifulsoup4 = "^4.12"
+dependencies = ["requests", "beautifulsoup4", "tqdm"]
 
 [build-system]
 requires = ["setuptools>=61.0"]
