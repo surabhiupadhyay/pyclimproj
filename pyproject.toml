@@ -1,0 +1,24 @@
+[project]
+name = "pyclimproj"
+version = "2025.05.30"
+description = "Downloader for hydroclimate NetCDF data"
+authors = [
+    { name = "Surabhi Upadhyay", email = "surabhiupadhyay7@gmail.com" }
+]
+license = "MIT"
+readme = "README.md"
+requires-python = ">=3.8"
+
+[project.dependencies]
+requests = "^2.31"
+beautifulsoup4 = "^4.12"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+license-files = []
+
+[project.urls]
+Homepage = "https://github.com/surabhiupadhyay/pyclimproj"

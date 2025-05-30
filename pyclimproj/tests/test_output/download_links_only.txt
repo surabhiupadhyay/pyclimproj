@@ -1,0 +1,10 @@
+https://hydrosource2.ornl.gov/files/SWA9505V3/NorESM2-MM_ssp585_r1i1p1f1_RegCM_Livneh/prcp/NorESM2-MM_ssp585_r1i1p1f1_RegCM_Livneh_VIC4_prcp_yr_1980_2019.nc
+https://hydrosource2.ornl.gov/files/SWA9505V3/BCC-CSM2-MR_ssp585_r1i1p1f1_DBCCA_Daymet/prcp/BCC-CSM2-MR_ssp585_r1i1p1f1_DBCCA_Daymet_VIC4_prcp_yr_1980_2019.nc
+https://hydrosource2.ornl.gov/files/SWA9505V3/MPI-ESM1-2-HR_ssp585_r1i1p1f1_RegCM_Livneh/prcp/MPI-ESM1-2-HR_ssp585_r1i1p1f1_RegCM_Livneh_VIC4_prcp_yr_1980_2019.nc
+https://hydrosource2.ornl.gov/files/SWA9505V3/CNRM-ESM2-1_ssp585_r1i1p1f2_DBCCA_Livneh/prcp/CNRM-ESM2-1_ssp585_r1i1p1f2_DBCCA_Livneh_VIC4_prcp_yr_1980_2019.nc
+https://hydrosource2.ornl.gov/files/SWA9505V3/MPI-ESM1-2-HR_ssp126_r1i1p1f1_DBCCA_Daymet/prcp/MPI-ESM1-2-HR_ssp126_r1i1p1f1_DBCCA_Daymet_VIC4_prcp_yr_1980_2019.nc
+https://hydrosource2.ornl.gov/files/SWA9505V3/ACCESS-CM2_ssp585_r1i1p1f1_RegCM_Livneh/prcp/ACCESS-CM2_ssp585_r1i1p1f1_RegCM_Livneh_VIC4_prcp_yr_1980_2019.nc
+https://hydrosource2.ornl.gov/files/SWA9505V3/BCC-CSM2-MR_ssp370_r1i1p1f1_DBCCA_Daymet/prcp/BCC-CSM2-MR_ssp370_r1i1p1f1_DBCCA_Daymet_VIC4_prcp_yr_1980_2019.nc
+https://hydrosource2.ornl.gov/files/SWA9505V3/CNRM-ESM2-1_ssp245_r1i1p1f2_DBCCA_Daymet/prcp/CNRM-ESM2-1_ssp245_r1i1p1f2_DBCCA_Daymet_VIC4_prcp_yr_1980_2019.nc
+https://hydrosource2.ornl.gov/files/SWA9505V3/MRI-ESM2-0_ssp245_r1i1p1f1_DBCCA_Daymet/prcp/MRI-ESM2-0_ssp245_r1i1p1f1_DBCCA_Daymet_VIC4_prcp_yr_1980_2019.nc
+https://hydrosource2.ornl.gov/files/SWA9505V3/MPI-ESM1-2-HR_ssp585_r1i1p1f1_DBCCA_Daymet/prcp/MPI-ESM1-2-HR_ssp585_r1i1p1f1_DBCCA_Daymet_VIC4_prcp_yr_1980_2019.nc

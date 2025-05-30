@@ -1,0 +1,41 @@
+Metadata-Version: 2.1
+Name: pyclimproj
+Version: 0.1.0
+Summary: Python tools to download and explore CMIP6 hydroclimate data from SWA9505
+Author: Your Name
+Author-email: Surabhi Upadhyay <your@email.com>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests
+Requires-Dist: beautifulsoup4
+Requires-Dist: tk
+
+# pyclimproj
+
+**pyclimproj** is a Python package and GUI-based tool for downloading and exploring CMIP6-based hydroclimatic projection data hosted on the [ORNL HydroSource SWA9505V3 portal](https://hydrosource2.ornl.gov/files/SWA9505V3/).  
+It enables researchers and practitioners to selectively download NetCDF files based on model, scenario, variable, and time range, and to preview and inspect downloaded datasets.
+
+---
+
+## Features
+
+- Select from multiple GCMs and emission scenarios (e.g., `ACCESS-CM2`, `ssp245`, etc.)
+- Choose hydroclimatic variables (e.g., `prcp`, `tmin`, `swe`, `runoff`, etc.)
+- Filter by file frequency or year (`monthly`, `yearly`, or specific ranges like `1980–2019`)
+- Limit number of model folders to download
+- Visual progress bar and user-friendly interface
+- Compatible with `xarray`, `matplotlib`, and `netCDF4` for further analysis
+
+---
+
+## Installation
+
+1. Clone the repository:
+
+git clone https://github.com/your-username/pyclimproj.git
+cd pyclimproj
+
+2. Pip install:
+
+pip install .
